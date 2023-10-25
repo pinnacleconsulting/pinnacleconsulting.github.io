@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Pinnacle Consulting</h1>
+<p>We are hosted with Github Pages.</p>
+</body>
+</html>
